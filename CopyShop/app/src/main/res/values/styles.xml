@@ -1,15 +1,18 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="android:windowActionBar">false</item>
-
-
+    <!-- tool bar -->
+    <style name="toolBar" parent="Theme.AppCompat">
+        <item name="android:background">#107710</item>
+        <item name="android:text">abcd</item>
+        <item name="android:textColor">#ffffff</item>
     </style>
+
+
 
 
 </resources>

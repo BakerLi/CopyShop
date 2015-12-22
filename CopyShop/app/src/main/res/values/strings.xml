@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Copyshop</string>
+    <string name="open_drawerlayout">open</string>
+    <string name="close_drawerlayout">close</string>
 </resources>
